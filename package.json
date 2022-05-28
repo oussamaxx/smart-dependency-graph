@@ -1,5 +1,6 @@
 {
   "name": "smart-dependency-graph",
+  "author": "Oussama Essadaoui",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
